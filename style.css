@@ -1,0 +1,45 @@
+body {
+	background: url('img/prism.png');
+}
+
+p {font-size: 16px;}
+
+.bg-1{
+	background-color: #19b975;
+	color: #ffffff;
+}
+.bg-2{
+	background-color: #474e5d;
+	color:#ffffff;
+}
+.bg-3{
+	background-color: #ffffff;
+	color:#555555;
+}
+.bg-4{
+	background-color: #2f2f2f;
+	color: #ffffff;
+}
+.margin{
+	margin-bottom: 45px;
+}
+.img{
+	width: 30%;
+}
+.container-fluid{
+	padding-top: 70px;
+    padding-bottom: 70px;
+}
+.mypic{
+	width:100%;
+}
+.navbar{
+	border-radius: 0;
+	border: 0;
+	margin-bottom: 0;
+	font-size: 12px;
+	letter-spacing: 5px;
+}
+.navbar-nav li a:hover{
+	color:  #1abc9c !important;
+}
