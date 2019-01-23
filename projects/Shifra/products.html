@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- <link rel="shortcut icon" href="favicon.ico" /> -->
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Shifra</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- Plugin css -->
+    <link rel="stylesheet" href="css/jquery.animateSlider.css">
+    <!-- Demo css -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/demo1.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/products.css">
+</head>
+
+<body ng-app="myApp">
+    <header>
+
+    </header>
+
+    <div class="rel">
+        <img class="abs main-bg" src="images/bg-products.png" rel="main-image">
+        <div class="container" ng-controller="myCtrl" style="">
+            <h2 class="top-h2">Chudidar</h2>
+            <div id="quick-view" ng-hide="isClicked" class="container quick-div rel">
+                <a class="abs close-icon" ng-click="isClicked = false" href="#">
+                    <img class="icon-sm" src="images/close-icon.png" alt="image">
+                </a>
+                <div class="row">
+                    <div class="col-sm-1">
+                        <img class="icon-click icon-sm up-down up anim-ease" src="images/up.png" alt="list-up">
+                        <img class="img-responsive padd-sm img-cr anim-ease" src="images/c1.png" alt="product-view">
+                        <img class="img-responsive padd-sm img-cr anim-ease" src="images/c2.png" alt="product-view">
+                        <img class="img-responsive padd-sm img-cr anim-ease" src="images/c3.png" alt="product-view">
+                        <img class="icon-click icon-sm up-down down anim-ease" src="images/down.png" alt="list-down">
+                    </div>
+                    <div class="product-div col-sm-3 rel">
+                        <img class="img-responsive product-img anim-ease" src="images/p1.png" alt="product-view">
+                        <span id="zoom" class="abs glyphicon glyphicon-zoom-in"></span>
+                    </div>
+
+                    <div class="col-sm-8">
+                        <h2 style="margin:5px 0">DUO Chudidar Leggings</h2>
+                        <p style="margin:0;">Lightweight &amp; graceful</p>
+                        <p><a href="#" style="text-decoration:none;"><span class="star-icon full">☆</span>
+                            <span class="star-icon full">☆</span>
+                            <span class="star-icon full">☆</span>
+                            <span class="star-icon half">☆</span>
+                            <span class="star-icon">☆</span>&nbsp;3.5</a>
+                            &nbsp; | &nbsp; <a href="#" style="text-decoration:none;">28 Review</a>
+                            &nbsp; | &nbsp; <a href="#" style="text-decoration:none;">Write a Review</a>
+
+                        </p>
+                        <div class="ab" style="padding: 10px 0;">
+                            Color:
+                            <img class="icon-click" src="images/left-icon.png" alt="left"> &nbsp;
+                            <img class="icon-click color" src="images/pink.png" alt="pink"> &nbsp;
+                            <img class="icon-click color" src="images/brown.png" alt="brown"> &nbsp;
+                            <img class="icon-click color" src="images/black.png" alt="black"> &nbsp;
+                            <img class="icon-click color" src="images/grey.png" alt="grey"> &nbsp;
+                            <img class="icon-click color" src="images/blue.png" alt="blue"> &nbsp;
+                            <img class="icon-click" src="images/right-icon.png" alt="right">
+                        </div>
+                        <div class="size ab" style="padding: 10px 0;">
+                            <span class="aaa">Size: &nbsp; </span>
+                            <a class="size-link" href=""> S </a> &nbsp;|&nbsp;
+                            <a class="size-link" href=""> M </a> &nbsp;|&nbsp;
+                            <a class="size-link" href=""> L </a> &nbsp;|&nbsp;
+                            <a class="size-link" href=""> L Curve </a> &nbsp;|&nbsp;
+                            <a class="size-link" href=""> XL </a> &nbsp;|&nbsp;
+                            <a class="size-link" href=""> XL Curve </a>
+                           
+                        </div>
+                        <div class="ab" style="padding: 10px 0;">
+                            Quantity:
+                            <input class="" type="text" style="width: 80px;border: 2px solid #777;border-radius: 5px;padding:8px;background: transparent;"
+                                ng-model="counter" ng-mouseleave="reset()" ng-value="counter">
+                            <button style="font-size:14px;margin-left: -30px;padding: 8px;background:transparent;border:0;" ng-click="increment()">+</button>
+                        </div>
+                        <div>
+                            <h1 class="" style="font-weight:600;">₹ 600.0</h1>
+                            <div class="btn-div">
+                                    <img class="icon-click" src="images/buy-btn.png" style="width: 40%;">
+                                    <img class="icon-click" src="images/cart-btn.png" style="width: 47%;margin-left: 10%;">
+                                <p class="sm"><b>*Not in Broadwaistband variant</b></p>
+                            </div>
+                        </div>
+                        <div>
+                            <h2 style="margin:0;">Description</h2>
+                            <p>These churidars have been designed to add
+                                <br>beauty to any kurta/kurti and great comfort
+                                <br>for you 
+                                <a href="" style="text-decoration:none;" ng-click="showThis = 1 - showThis; hideThis = 1 - hideThis;">
+                                    More details<span ng-show="hideThis"> &#9650;</span> <span ng-hide="hideThis">&#9660;</span>
+                                </a>
+                            </p>         
+                        </div>
+                        <div style="line-height:2" ng-show="showThis">
+                            <li>Flat waistbandfor a slimmer you</li>
+                            <li>Double stitchingfor durability</li>  
+                            <li>No fade fabric</li>
+                            <li>Low pilling</li>
+                            <li>Superior moisture absorption</li>
+                            <li>Dual layer Quick Dry fabric</li>
+                            <li>Skin Friendly fabric</li>
+                            <li>Great stretch for all activity</li>
+                            <li>Ripple effect! More gatherings at the
+                                <br>&nbsp;&nbsp; &nbsp;vankles for an elegant look.</li>
+                        </div>
+                        
+                    </div>
+                </div>
+
+            </div>
+
+            <main>
+                <h1 class="text-center">Other Products</h1>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="rel rel1">
+                            <a href="#">
+                                <img class="img-responsive" src="images/girl1.png" alt="categories" style="margin:auto;">
+                                <h2 class="abs h2-1">PALAZZOS</h2>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-sm-4">
+                        <div class="rel rel1">
+                            <a href="#">
+                                <img class="img-responsive" src="images/girl3.png" alt="categories" style="margin:auto;">
+                                <h2 class="abs h2-3">ANKLE LEGGINGS</h2>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="rel rel1">
+                            <a href="#">
+                                <img class="img-responsive" src="images/girl4.png" alt="categories" style="margin:auto;">
+                                <h2 class="abs h2-4">CAPRIS</h2>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+
+    <!-- Bower Depedencies -->
+    <script src="js/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+    <script src="js/modernizr.js"></script>
+    <!-- Load the plugin -->
+    <script src="js/jquery.animateSlider.js"></script>
+    <script src="js/animation.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/controller.js"></script>
+</body>
+
+</html>

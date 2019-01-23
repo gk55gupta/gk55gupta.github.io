@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- <link rel="shortcut icon" href="favicon.ico" /> -->
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Shifra</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- Plugin css -->
+    <link rel="stylesheet" href="css/jquery.animateSlider.css">
+    <!-- Demo css -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/demo1.css">
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        h2 {
+            background: linear-gradient(to right, #009db7, #0073bb);
+            border-top-right-radius: 45px;
+            color: white;
+            padding: 10px;
+            width: 180px;
+            text-align: center;
+            margin: 15px 0;
+            margin-left: 30px;
+        }
+
+        .main-bg {
+            height: 80.4vh;
+        }
+
+        .rel1 {
+            width: 80%;
+        }
+
+        .quick-div {
+            max-width: 95%;
+            margin: 25px auto;
+            padding: 20px;
+            background: -webkit-radial-gradient(#dfe0e2, #fff, #dfe0e2);
+            /* Safari 5.1- 6.0 */
+            background: -o-radial-gradient(#dfe0e2, #fff, #dfe0e2);
+            /* Opera 11.6-12.0 */
+            background: -moz-radial-gradient(#dfe0e2, #fff, #dfe0e2);
+            /* Firefox 3.6-15 */
+            background: radial-gradient(#dfe0e2, #fff, #dfe0e2);
+            /* Standard syntax */
+        }
+
+        #quick-view {
+            color: black;
+        }
+
+        #quick-view h1 {
+            font-weight: 600;
+            color: #777;
+        }
+        #quick-view h3{
+            font-weight: bold;
+        }
+        .close-icon {
+            top: 5px;
+            right: 10px;
+        }
+
+        li {
+            display: inline-block;
+        }
+
+        .icon-click {
+            cursor: pointer;
+        }
+
+        .size a {
+            text-decoration: none;
+            color: #000;
+            padding: 4px;
+            cursor: pointer;
+            border: 2px solid transparent;
+        }
+
+        .size a:focus {
+            border: 2px solid #777;
+            font-weight: bold;
+        }
+
+        @media (max-width:1000px) {
+            h4 {
+                font-size: 10px;
+            }
+        }
+
+        @media (max-width:767px) {
+            h4 {
+                margin-top: 35px;
+                margin-bottom: 15px;
+                font-size: 20px;
+                text-align: center;
+            }
+            .rel1 {
+                width: fit-content;
+            }
+            h2 {
+                margin: 15px auto;
+            }
+        }
+    </style>
+</head>
+
+<body ng-app="myApp">
+    <header>
+
+    </header>
+
+    <div class="rel">
+        <img class="abs main-bg" src="images/bg-about.png" rel="main-image">
+        <div class="container" ng-controller="myCtrl" style="">
+            <h2>Chudidar</h2>
+            <div class="row">
+                <div class="col-sm-3">
+                    <div class="rel rel1">
+                        <a class="expand" href="#quick-view" ng-click="isClicked = true">
+                            <img class="img-responsive" src="images/img1.png" alt="categories" style="margin:auto;">
+                        </a>
+                        <div class="overlay">
+                            <h4 class="text">QUICK VIEW</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="rel rel1">
+                        <a class="expand" href="#quick-view" ng-click="isClicked = true">
+                            <img class="img-responsive" src="images/img2.png" alt="categories" style="margin:auto;">
+                            <div class="overlay">
+                                <h4 class="text">QUICK VIEW</h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3 rel">
+                    <div class="rel rel1">
+                        <a class="expand" href="#quick-view" ng-click="isClicked = true">
+                            <img class="img-responsive" src="images/img3.png" alt="categories" style="margin:auto;">
+                        
+                        <div class="overlay">
+                            <h4 class="text">QUICK VIEW</h4>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-sm-3 rel">
+                    <div class="rel rel1">
+                        <a class="expand" href="#quick-view" ng-click="isClicked = true">
+                            <img class="img-responsive" src="images/img4.png" alt="categories" style="margin:auto;">
+                            <div class="overlay">
+                                <h4 class="text">QUICK VIEW</h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div id="quick-view" ng-show="isClicked" class="container quick-div rel">
+                <a class="abs close-icon" ng-click="isClicked = false" href="#">
+                    <img src="images/close-icon.png" alt="image" style="width:15px;">
+                </a>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <img class="img-responsive" src="images/product1.png" alt="product-view">
+                    </div>
+
+                    <div class="col-sm-9">
+                        <h3>Lightweight &amp; graceful</h3>
+                        <div style="padding: 10px 0;">
+                            Color:
+                            <img class="icon-click" src="images/left-icon.png" alt="left"> &nbsp;
+                            <img class="icon-click" src="images/right-icon.png" alt="right">
+                        </div>
+                        <div class="size" style="padding: 10px 0;">
+                            Size: &nbsp;
+                            <a href=""> S </a> &nbsp;|&nbsp;
+                            <a href=""> M </a> &nbsp;|&nbsp;
+                            <a href=""> L </a> &nbsp;|&nbsp;
+                            <a href=""> L Curve </a> &nbsp;|&nbsp;
+                            <a href=""> XL </a> &nbsp;|&nbsp;
+                            <a href=""> XL Curve </a>
+                        </div>
+                        <div style="padding: 10px 0;">
+                            Quantity:
+                            <input class="" type="text" style="width: 80px;border: 2px solid #777;border-radius: 5px;padding:8px;background: transparent;" ng-model="counter" ng-mouseleave="reset()" ng-value="counter">
+                            <button style="font-size:14px;margin-left: -30px;padding: 8px;background:transparent;border:0;" ng-click="increment()">+</button>
+                        </div>
+                        <div style="padding:10px 0">
+                            <li> • Stylish pockets on both sides</li>
+                            <li> &nbsp; • Soft panels for elegance</li>
+                        </div>
+                        <div>
+                            <p style="display:  inline-block;width: 40%;"><b>*Not in Broadwaistband variant</b></p>                            
+                            <div style="display:  inline-block;width: 59%;">
+                                <h1 class="" style="margin-top: 0;margin-bottom: 10px;text-align:  right;">₹ 600.0</h1>
+                                <a href="#" class="">
+                                    <img src="images/buy-btn.png" style="width: 35%;margin-left: 13%;">
+                                </a>
+                                <a href="#" class="">
+                                    <img src="images/cart-btn.png" style="width: 40%;margin-left: 10%;">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Bower Depedencies -->
+    <script src="js/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+    <script src="js/modernizr.js"></script>
+    <!-- Load the plugin -->
+    <script src="js/jquery.animateSlider.js"></script>
+    <script src="js/animation.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/controller.js"></script>
+</body>
+
+</html>

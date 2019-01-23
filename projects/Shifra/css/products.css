@@ -1,0 +1,240 @@
+main{            padding: 0;        }
+.top-h2 {
+    background: linear-gradient(to right, #009db7, #0073bb);
+    border-top-right-radius: 45px;
+    color: white;
+    padding: 10px;
+    width: 180px;
+    text-align: center;
+    margin: 15px 0;
+    margin-left: 30px;
+}
+
+.main-bg {
+    height: auto;
+}
+
+.rel1 {
+    width: 80%;
+}
+
+.quick-div {
+
+    max-width: 95%;
+    margin: 25px auto;
+    padding: 40px;
+    background: -webkit-radial-gradient(#dfe0e2, #fff, #dfe0e2);
+    /* Safari 5.1- 6.0 */
+    background: -o-radial-gradient(#dfe0e2, #fff, #dfe0e2);
+    /* Opera 11.6-12.0 */
+    background: -moz-radial-gradient(#dfe0e2, #fff, #dfe0e2);
+    /* Firefox 3.6-15 */
+    background: radial-gradient(#dfe0e2, #fff, #dfe0e2);
+    /* Standard syntax */
+}
+
+#quick-view {
+    color: black;
+}
+
+#quick-view h1 {
+    font-weight: 600;
+    color: #777;
+}
+
+#quick-view h3 {
+    font-weight: bold;
+}
+
+.close-icon {
+    top: 5px;
+    right: 10px;
+}
+
+li.inline {
+    display: inline-block;
+}
+
+.icon-click {
+    cursor: pointer;
+}
+
+.size a {
+    text-decoration: none;
+    color: #000;
+    padding: 4px;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+
+.size a:focus {
+    border: 2px solid #777;
+    font-weight: bold;
+}
+
+.icon-sm {
+    width: 15px;
+    margin: 0 40%;
+}
+
+.img-cr{
+    padding: 20% 5%;
+}
+
+.col-sm-1{
+    padding: 4% 0;
+}
+.anim-ease{
+    transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    cursor: pointer;
+}
+
+.product-img{
+    padding: 20% 0px;
+    width: 65%;
+    margin: auto;
+    
+}
+
+
+.abs.glyphicon{
+    display: none;
+    top:50%;
+    left:30%;
+    color: #777;
+    font-size: 3em;
+    cursor: pointer;
+}
+
+.product-img:hover{
+    width:95%;
+}
+
+
+p.sm{
+   text-align: right; font-size:10px;
+}
+.btn-div{
+    width:58%;
+}
+img.color{
+    width:28px;
+}
+a.size-link{
+    margin: 5px 0;
+}
+
+.star-icon {
+    color: #777;
+    font-size: 2em;
+    position: relative;
+}
+.star-icon.full:before {
+    text-shadow: 0 0 2px rgba(0,0,0,0.7);
+    color: #FDE16D;
+    content: '\2605'; /* Full star in UTF-8 */
+    position: absolute;
+    left: 0;
+}
+.star-icon.half:before {
+    text-shadow: 0 0 2px rgba(0,0,0,0.7);
+    color: #FDE16D;
+    content: '\2605'; /* Full star in UTF-8 */
+    position: absolute;
+    left: 0;
+    width: 50%;
+    overflow: hidden;
+}
+@-moz-document url-prefix() { /* For Firefox :( */
+  .star-icon {
+    font-size: 50px;
+    line-height: 34px;
+  }
+}
+
+
+
+
+
+@media (max-width:1000px) {
+    h2{
+        font-size: 1.4em;
+    }
+    h4 {
+        font-size: 10px;
+    }
+    p{
+        font-size: 0.8em;
+    }
+    p.sm{
+        font-size: 9px;
+    }
+}
+
+@media (max-width:991px) {
+    h4 {
+        font-size: 10px;
+    }
+}
+
+
+
+@media (max-width:767px) {
+    h1{
+        font-size: 1.5em;
+    }
+    h2{
+        font-size: 1em;
+    }
+    h4 {
+        margin-top: 35px;
+        margin-bottom: 15px;
+        font-size: 20px;
+        text-align: center;
+    }
+    .rel1 {
+        width: fit-content;
+    }
+    h2 {
+        margin: 15px auto;
+    }
+    li, .ab{
+        font-size: 0.7em;
+    }
+    .quick-div {
+        margin: 20px auto;
+        padding: 30px;
+    }
+    .col-sm-1 {
+        text-align: center;
+    }
+    .img-cr{
+        display: inline-block;
+        padding: 0 3%;
+        width: 24%;
+    }
+    .product-img{
+        padding: 0;
+        width: 28%;
+    }
+    .icon-sm{
+        margin: 0;
+    }
+    .up-down{
+        width:8px;
+    }
+}
+
+@media (max-width:500px) {
+    .product-img {
+        padding: 0;
+        width: 38%;
+    }
+    .btn-div{
+        width:100%;
+    }
+    img.color{
+        width:22px;
+    }
+}

@@ -1,0 +1,273 @@
+body{
+	font-family: 'Roboto', sans-serif;	
+}
+.rel{
+	position: relative;
+}
+.abs{
+	position: absolute;
+}
+.contact-container-top{
+	background-color: #002f4a;
+	padding: 8px;
+}
+.contact{
+	display: inline-block;
+}
+.contact-no{
+	color: white !important;
+	text-decoration: none !important;
+	font-size: 13.5px;
+	font-weight: 100;
+} 
+.top-icon {
+	margin-left: 30px;
+    margin-right: 10px;
+}
+.navbar-default{
+    box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.4);    
+	background-color: white !important;
+	border: 0 !important;
+    margin-bottom: 0;
+    z-index: 1;
+}
+.nav > li{
+	padding: 8px 10px;
+}
+.navbar-right{
+    padding: 25px 0;
+}
+
+.navbar-default .navbar-nav>li>a{
+	padding:15px 30px;
+    color: #03324c;
+    border: 3px solid #03324c;
+    border-radius: 30px;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:active{
+	color: white;
+	background-color: #03324c;
+}
+#profile{
+    padding: 5px 15px;
+}
+.navbar-brand, .logo{
+    width: 90% !important;
+    height: initial;
+}
+.navbar-toggle {
+	margin-top: 30px;
+}
+
+nav  .btn .caret{
+    margin-left: 10px;
+}
+.dropdown-toggle{
+    border:0;background:#fff;outline:0;padding:20px 15px;padding-bottom: 5px;
+}
+
+.bg-blue{
+    background-color: #0072bb;
+}
+main .carousel .item > img{
+    margin-top: -0.66%;
+    margin-bottom: -7.5%;
+}
+
+main h2{
+	margin-top: 0;
+	font-weight: 300;
+	color: #03324c;
+	font-size: 50.15px;
+}
+main h3{
+    margin-top: 0;
+	font-weight: 500;
+	color: #03324c;
+	font-size: 40.12px;
+}
+main h4{
+	color: #03324c;
+	font-size: 25px;
+}
+.thumbnail{
+    padding: 0 !important;
+    border: 0 !important;
+    box-shadow: 0px 0px 37.5px 12.5px rgba(0, 0, 0, 0.15);    
+}
+.carousel{
+	margin-bottom: 5%;
+}
+.section-1{
+	padding: 4%;
+	padding-bottom: 0;
+}
+.section-1 h2{
+	padding: 2% 0;
+}
+.section-1 h3{
+	font-size: 33px;
+}
+.section-1 .col-sm-4{
+	padding: 3% 0;
+}
+.section-1 img{
+	padding: 5% 0;
+}
+
+.section-2{
+	padding: 3.34%;
+	padding-bottom: 1.25%;
+}
+.section-2 h3{
+	padding: 3% 0;
+}
+.section-2 .col-sm-4{
+	padding: 3% 0;
+}
+.section-2 .col-sm-4 img{
+	margin-bottom: 5%;
+}
+
+
+.section-3{
+	padding: 3.25% 4.25%;
+}
+.section-3 h3{
+	padding: 3% 0;
+}
+.section-3 .col-sm-4{
+	padding: 1% 2%;
+}
+.thumbnail .caption{
+	padding: 25px;
+}
+.thumbnail .caption p{
+	font-size: 15px;
+	color: #03324c;
+	font-weight: 300;
+}
+.show-btn {
+	border-radius: 30px;
+    margin: 10px 20px;
+    padding: 7px 22px;
+    border: 2px solid #002e48;
+    color: #002e48;
+    text-decoration: none !important;
+}
+.show-btn:hover, .show-btn:active{
+	color: white;
+	background-color: #002e48;
+}
+
+.last-section{
+	padding: 3.25% 0;
+}
+.last-section h3{
+	padding: 3.25% 0;
+}
+.last-section .row{
+	padding: 3% 0;
+}
+
+.last-section .row img{
+	padding: 5% 3%;
+}
+
+.last-section h4{
+	font-family: 'Montserrat', sans-serif;
+	
+}
+
+footer{
+	padding: 5% 0px;
+}
+.social{
+	text-align: right;
+	color: white;
+}
+footer .col-sm-8 > div{
+	padding: 1% 0px !important;
+}
+footer .col-sm-8 a{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	color: white !important;
+	text-decoration: none !important;
+}
+.twitter{
+    width: 70px;   
+}
+footer .social a img{
+	padding: 0px 2%;
+}
+
+
+
+@media (max-width: 1000px){
+	.navbar-right > li > a{
+		padding-right: 10px;
+	}
+	main h1{
+		font-size: 50.5px;
+	}
+	main h2{
+		font-size: 40px;
+	}
+	main h3, .section-1 h3{
+		font-size: 30px;
+	}
+	main h4{
+		font-size: 22px;
+	}
+    
+}
+@media (max-width: 767px){
+	.navbar-brand, .logo{
+		width: 150px !important;
+	}
+	main h1{
+		font-size: 40.5px;
+	}
+	main h2{
+		font-size: 30.8px;
+	}
+	main h3{
+		font-size: 24px;
+	}
+	.section-1 h3{
+		font-size: 22px;
+	}
+	main h4{
+		font-size: 20px;
+	}
+    footer{
+        text-align: center;
+    }
+	footer .col-sm-8 a{
+		font-size: 15.3px;		
+	}
+	footer .social{
+		margin-top: 45px;
+		text-align: center;
+	}
+}
+
+@media (min-width:430px) and (max-width:767px) {
+	.thumbnail > img{
+		width:100%;
+	}
+}
+@media (max-width:535px){
+	.top-contact{
+		float: none !important;
+	}
+	.contact{
+		display: block;
+		text-align: center;
+	}
+	.top-icon{
+		margin-left: 0;
+	}
+	
+}

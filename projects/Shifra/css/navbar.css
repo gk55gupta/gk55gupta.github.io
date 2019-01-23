@@ -1,0 +1,51 @@
+.nav-container {
+    display: block;
+    position: relative;
+    width: 100%;
+    text-align: center;
+   padding: 15px 0;
+}
+
+.myNav {
+    display: block;
+    margin: 0;
+    background: #fff url(../images/hdr-menu-bg.jpg);
+    background-size: cover;
+    width: 100%;
+    min-height: unset;
+    border: 0;
+    border-radius: 0;
+}
+
+.myNav ul {
+    margin: 0;
+    padding: 1.2% 13%;
+    width: 100%;
+}
+
+.myNav li a{
+    color: #fff;
+    border-right: 1px solid #fff;
+    line-height: 14px;
+    padding: 0 15px;
+}
+.myNav .navbar-nav .last-item{
+    padding-right: 0;
+    border-right: none;
+}
+.navbar-toggle{
+    margin: 5px;
+    margin-right: 10px;
+    border: 1px solid white;
+}
+.navbar-toggle .icon-bar{
+   background-color: white;
+}
+.navbar-collapse.collapse.in{
+    background: rgba(187, 102, 154, 0.6);
+    border: 0px;
+}
+.navbar-collapse.collapse.in li > a{
+    padding: 10px 0;
+    border: 0;
+}
