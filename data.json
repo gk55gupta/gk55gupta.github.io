@@ -1,1 +1,1972 @@
-{"data":{"show_slot":true,"show_pax":true,"slots":[{"slot":"17:00:00","is_selected":false,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 5:00 PM","inactive_message":"Deals not available at 5:00 PM","otherInfo":null,"inventory":true},{"slot":"17:30:00","is_selected":false,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 5:30 PM","inactive_message":"Deals not available at 5:30 PM","otherInfo":null,"inventory":true},{"slot":"18:00:00","is_selected":false,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 6:00 PM","inactive_message":"Deals not available at 6:00 PM","otherInfo":null,"inventory":true},{"slot":"18:30:00","is_selected":false,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 6:30 PM","inactive_message":"Deals not available at 6:30 PM","otherInfo":null,"inventory":true},{"slot":"19:00:00","is_selected":false,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 7:00 PM","inactive_message":"Deals not available at 7:00 PM","otherInfo":null,"inventory":true},{"slot":"19:30:00","is_selected":false,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 7:30 PM","inactive_message":"Deals not available at 7:30 PM","otherInfo":null,"inventory":true},{"slot":"20:00:00","is_selected":true,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 8:00 PM","inactive_message":"Deals not available at 8:00 PM","otherInfo":null,"inventory":true},{"slot":"20:30:00","is_selected":false,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 8:30 PM","inactive_message":"Deals not available at 8:30 PM","otherInfo":null,"inventory":true},{"slot":"21:00:00","is_selected":false,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 9:00 PM","inactive_message":"Deals not available at 9:00 PM","otherInfo":null,"inventory":true},{"slot":"21:30:00","is_selected":false,"slot_description":"","active":[{"id":86943,"title":"25% off on food & soft beverage","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"21,18,18,1","image":"","text":"Prime Exclusive","text_color":"255,255,255,1"},{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"prime":{"exclusive":"PRIME EXCLUSIVE","benefits":"Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.","button":"Upgrade","image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png","title":"Get 30 days FREE Prime"},"terms_and_conditions":["Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"prime","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"},{"id":11207,"title":"Enjoy 15% off on food bill","prepaid":false,"allowed_pax":15,"rules":{"allowed_pax":15},"deal_subtype":null,"tag":[{"background_color":"245,245,245,1","image":"","text":"Alacarte","text_color":"97,97,97,1"}],"is_mmt":false,"terms_and_conditions":["Reservations made once inside the restaurant will not be honored.","Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.","For dine in restaurants, bookings made after coming to the restaurants will not be entertained.","Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.","Service charge will be applicable as per the policy of the restaurant."],"menu":null,"hot_deal":false,"deal_type":"alacarte","active_period":[[{"start":"12:00 PM","end":"11:00 PM","day":"Mon","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Wed","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Thu","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Fri","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sat","bold":false}],[{"start":"12:00 PM","end":"11:00 PM","day":"Sun","bold":true}]],"deal_offer_type":"standard","allow_wallet":true,"allow_coupon":true,"currency":"\u20b9"}],"inactive":null,"prime_section":null,"active_message":"2 deals at 9:30 PM","inactive_message":"Deals not available at 9:30 PM","otherInfo":null,"inventory":true}]},"other_deals_data":{"deal_types":["postpaid"],"other_deals_data":[{"icon":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/resized\/falseXfalse\/restaurant_detail\/qsr.png","title":"Discount Coupon Deals","freeze_time":60,"request_data":{"date":"2020-08-09","pax":"1","restaurant":"110156","time":"20:00:00","slot":1,"deal_types":["qsr"]},"code":"https:\/\/www.eazydiner.com\/restaurant\/search\/slots?date=2020-08-09&pax=1&restaurant=110156&time=20%3A00%3A00&slot=1&deal_types%5B0%5D=qsr","period":30,"subtitle":"Pay now & redeem at the restaurant."}],"defaultDealFreezeTime":60,"defaultDealFreezePeriod":30,"defaultDealAllowedPax":false,"deal_availability_error":false,"shawmanMaxDay":30,"prime_image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/subscriptions\/prime\/primeexclusivenew.png","hasPrimeDeal":true},"links":{"prev":"https:\/\/www.eazydiner.com\/restaurant\/search\/slots?date=2020-08-09&pax=1&restaurant=110156&time=16%3A30%3A00&slot=0&deal_types%5B0%5D=postpaid&prev=10","next":null},"meta":{"slot_banner":{"banner_title":"","banner_action_url":"https:\/\/www.eazydiner.com\/premium-prime-dining?source=restaurant_detail","banner_action_type":"deeplink","banner_image":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/resized\/falseXfalse\/prime\/banner\/start_30_days_prime_trial.png","banner_title_text":"","banner_title_icon":"","banner_freeze_time":"","banner_period":30},"inactive_deal":{"icon":"https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/resized\/falseXfalse\/restaurant_detail\/default.png","title":"Deals in other time slots","subtitle":"Update date and time to avail these deals.","code":"inactive"}}}
+{
+    "data": {
+        "show_slot": true,
+        "show_pax": true,
+        "slots": [
+            {
+                "slot": "17:00:00",
+                "is_selected": false,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 5:00 PM",
+                "inactive_message": "Deals not available at 5:00 PM",
+                "otherInfo": null,
+                "inventory": true
+            },
+            {
+                "slot": "17:30:00",
+                "is_selected": false,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 5:30 PM",
+                "inactive_message": "Deals not available at 5:30 PM",
+                "otherInfo": null,
+                "inventory": true
+            },
+            {
+                "slot": "18:00:00",
+                "is_selected": false,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 6:00 PM",
+                "inactive_message": "Deals not available at 6:00 PM",
+                "otherInfo": null,
+                "inventory": true
+            },
+            {
+                "slot": "18:30:00",
+                "is_selected": false,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 6:30 PM",
+                "inactive_message": "Deals not available at 6:30 PM",
+                "otherInfo": null,
+                "inventory": true
+            },
+            {
+                "slot": "19:00:00",
+                "is_selected": false,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 7:00 PM",
+                "inactive_message": "Deals not available at 7:00 PM",
+                "otherInfo": null,
+                "inventory": true
+            },
+            {
+                "slot": "19:30:00",
+                "is_selected": false,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 7:30 PM",
+                "inactive_message": "Deals not available at 7:30 PM",
+                "otherInfo": null,
+                "inventory": true
+            },
+            {
+                "slot": "20:00:00",
+                "is_selected": true,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 8:00 PM",
+                "inactive_message": "Deals not available at 8:00 PM",
+                "otherInfo": null,
+                "inventory": true
+            },
+            {
+                "slot": "20:30:00",
+                "is_selected": false,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 8:30 PM",
+                "inactive_message": "Deals not available at 8:30 PM",
+                "otherInfo": null,
+                "inventory": true
+            },
+            {
+                "slot": "21:00:00",
+                "is_selected": false,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 9:00 PM",
+                "inactive_message": "Deals not available at 9:00 PM",
+                "otherInfo": null,
+                "inventory": true
+            },
+            {
+                "slot": "21:30:00",
+                "is_selected": false,
+                "slot_description": "",
+                "active": [
+                    {
+                        "id": 86943,
+                        "title": "25% off on food & soft beverage",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "21,18,18,1",
+                                "image": "",
+                                "text": "Prime Exclusive",
+                                "text_color": "255,255,255,1"
+                            },
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "prime": {
+                            "exclusive": "PRIME EXCLUSIVE",
+                            "benefits": "Save extra Rs 3,000 or more every time you eat out. Get full access to PRIME features for free.",
+                            "button": "Upgrade",
+                            "image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/promotion\/greedy_good.png",
+                            "title": "Get 30 days FREE Prime"
+                        },
+                        "terms_and_conditions": [
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "prime",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    },
+                    {
+                        "id": 11207,
+                        "title": "Enjoy 15% off on food bill",
+                        "prepaid": false,
+                        "allowed_pax": 15,
+                        "rules": {
+                            "allowed_pax": 15
+                        },
+                        "deal_subtype": null,
+                        "tag": [
+                            {
+                                "background_color": "245,245,245,1",
+                                "image": "",
+                                "text": "Alacarte",
+                                "text_color": "97,97,97,1"
+                            }
+                        ],
+                        "is_mmt": false,
+                        "terms_and_conditions": [
+                            "Reservations made once inside the restaurant will not be honored.",
+                            "Discount is not applicable on Bottles, Pitchers , Buckets , combos and any in house promotional deal.",
+                            "For dine in restaurants, bookings made after coming to the restaurants will not be entertained.",
+                            "Deals might not be applicable on festive days, special occasions (e.g. valentine\u2019s day or holi) and national holidays.",
+                            "Service charge will be applicable as per the policy of the restaurant."
+                        ],
+                        "menu": null,
+                        "hot_deal": false,
+                        "deal_type": "alacarte",
+                        "active_period": [
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Mon",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Wed",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Thu",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Fri",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sat",
+                                    "bold": false
+                                }
+                            ],
+                            [
+                                {
+                                    "start": "12:00 PM",
+                                    "end": "11:00 PM",
+                                    "day": "Sun",
+                                    "bold": true
+                                }
+                            ]
+                        ],
+                        "deal_offer_type": "standard",
+                        "allow_wallet": true,
+                        "allow_coupon": true,
+                        "currency": "\u20b9"
+                    }
+                ],
+                "inactive": null,
+                "prime_section": null,
+                "active_message": "2 deals at 9:30 PM",
+                "inactive_message": "Deals not available at 9:30 PM",
+                "otherInfo": null,
+                "inventory": true
+            }
+        ]
+    },
+    "other_deals_data": {
+        "deal_types": [
+            "postpaid"
+        ],
+        "other_deals_data": [
+            {
+                "icon": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/resized\/falseXfalse\/restaurant_detail\/qsr.png",
+                "title": "Discount Coupon Deals",
+                "freeze_time": 60,
+                "request_data": {
+                    "date": "2020-08-09",
+                    "pax": "1",
+                    "restaurant": "110156",
+                    "time": "20:00:00",
+                    "slot": 1,
+                    "deal_types": [
+                        "qsr"
+                    ]
+                },
+                "code": "https:\/\/www.eazydiner.com\/restaurant\/search\/slots?date=2020-08-09&pax=1&restaurant=110156&time=20%3A00%3A00&slot=1&deal_types%5B0%5D=qsr",
+                "period": 30,
+                "subtitle": "Pay now & redeem at the restaurant."
+            }
+        ],
+        "defaultDealFreezeTime": 60,
+        "defaultDealFreezePeriod": 30,
+        "defaultDealAllowedPax": false,
+        "deal_availability_error": false,
+        "shawmanMaxDay": 30,
+        "prime_image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/\/resized\/falseXfalse\/subscriptions\/prime\/primeexclusivenew.png",
+        "hasPrimeDeal": true
+    },
+    "links": {
+        "prev": "https:\/\/www.eazydiner.com\/restaurant\/search\/slots?date=2020-08-09&pax=1&restaurant=110156&time=16%3A30%3A00&slot=0&deal_types%5B0%5D=postpaid&prev=10",
+        "next": null
+    },
+    "meta": {
+        "slot_banner": {
+            "banner_title": "",
+            "banner_action_url": "https:\/\/www.eazydiner.com\/premium-prime-dining?source=restaurant_detail",
+            "banner_action_type": "deeplink",
+            "banner_image": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/resized\/falseXfalse\/prime\/banner\/start_30_days_prime_trial.png",
+            "banner_title_text": "",
+            "banner_title_icon": "",
+            "banner_freeze_time": "",
+            "banner_period": 30
+        },
+        "inactive_deal": {
+            "icon": "https:\/\/d4t7t8y8xqo0t.cloudfront.net\/app\/resized\/falseXfalse\/restaurant_detail\/default.png",
+            "title": "Deals in other time slots",
+            "subtitle": "Update date and time to avail these deals.",
+            "code": "inactive"
+        }
+    }
+}
